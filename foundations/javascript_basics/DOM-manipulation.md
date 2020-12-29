@@ -483,6 +483,7 @@ Manipulating web pages is the primary benefit of the JavaScript language!  These
 
 ### Additional Resources
 
+* [CS50's JavaScript tutorial for Web Programming](https://cs50.harvard.edu/web/2020/weeks/5/) provides an excellent summary of the information in this section in video format. This is particularly useful for visually understanding how each execution of JavaScript code changes the DOM. 
 * [Eloquent JS - DOM](http://eloquentjavascript.net/13_dom.html)
 * [Eloquent JS - Handling Events](http://eloquentjavascript.net/14_event.html)
 * [Event Capture, Propagation and Bubbling video by Wes Bos](https://www.youtube.com/watch?v=F1anRyL37lE)
